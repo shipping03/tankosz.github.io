@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(e,t,r){r.r(t),r.d(t,{default:function(){return n}});var l=r(294);function n(){return l.createElement("div",{style:{color:"blue"}},l.createElement("h1",null,"网站正加班建设中!"),l.createElement("img",{src:"https://source.unsplash.com/random/790x1100",alt:""}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2337339c155dc9e8907e.js.map
