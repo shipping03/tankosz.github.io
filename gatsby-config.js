@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "深圳市腾柯科技有限公司",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "深圳市腾柯科技有限公司主营蓝牙音箱、耳机、移动电源、墙充、无线充等电脑周边类产品",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
