@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/cms.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/cms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/cms.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/cms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/cms.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/cms.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/netlify-cms-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/netlify-cms-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/netlify-identity.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/netlify-identity.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/app-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/app-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/logo.svg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +48,6 @@
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -79,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636798544302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636798808491" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -114,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636714653314</updated>
       <workItem from="1636714654770" duration="1410000" />
-      <workItem from="1636766626450" duration="15355000" />
+      <workItem from="1636766626450" duration="15628000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1636714688267</created>
@@ -137,16 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1636790757563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1636798768823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636798768823</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16765000" />
+    <option name="totallyTimeSpent" value="17038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="988" y="12" width="964" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34513274" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34513274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -163,7 +149,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4988938" visible="true" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4988938" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5011062" side_tool="true" visible="true" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -331,13 +317,6 @@
     <entry file="file://$PROJECT_DIR$/src/img/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/all.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -352,6 +331,24 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gatsby-plugin-purgecss/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gatsby-plugin-purgecss/gatsby-node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-953" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gatsby-plugin-purgecss/paths.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
         </state>
       </provider>
     </entry>
