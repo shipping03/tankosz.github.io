@@ -15643,7 +15643,7 @@ var BlogRollTemplate = /*#__PURE__*/function (_React$Component) {
           lineNumber: 55,
           columnNumber: 19
         }
-      }, "Keep Reading \u2192"))));
+      }, "\u9605\u8BFB\u66F4\u591A \u2192"))));
     }));
   };
 
@@ -18802,7 +18802,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28,
-      columnNumber: 5
+      columnNumber: 7
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_FullWidthImage__WEBPACK_IMPORTED_MODULE_7__["default"], {
     img: heroImage,
@@ -18811,7 +18811,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29,
-      columnNumber: 7
+      columnNumber: 9
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
     className: "section section--gradient",
@@ -18819,7 +18819,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30,
-      columnNumber: 7
+      columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "container",
@@ -18827,7 +18827,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31,
-      columnNumber: 9
+      columnNumber: 11
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "section",
@@ -18835,7 +18835,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32,
-      columnNumber: 11
+      columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "columns",
@@ -18843,7 +18843,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33,
-      columnNumber: 13
+      columnNumber: 15
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "column is-7 is-offset-1",
@@ -18851,7 +18851,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34,
-      columnNumber: 15
+      columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h3", {
     className: "has-text-weight-semibold is-size-2",
@@ -18859,14 +18859,14 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 35,
-      columnNumber: 17
+      columnNumber: 19
     }
   }, heading), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 38,
-      columnNumber: 17
+      columnNumber: 19
     }
   }, description))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "columns",
@@ -18874,7 +18874,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 41,
-      columnNumber: 13
+      columnNumber: 15
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "column is-10 is-offset-1",
@@ -18882,7 +18882,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 42,
-      columnNumber: 15
+      columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Features__WEBPACK_IMPORTED_MODULE_3__["default"], {
     gridItems: intro.blurbs,
@@ -18890,7 +18890,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 43,
-      columnNumber: 17
+      columnNumber: 19
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "columns",
@@ -18898,7 +18898,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 44,
-      columnNumber: 17
+      columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "column is-7",
@@ -18906,7 +18906,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45,
-      columnNumber: 19
+      columnNumber: 21
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h3", {
     className: "has-text-weight-semibold is-size-3",
@@ -18914,14 +18914,14 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 46,
-      columnNumber: 21
+      columnNumber: 23
     }
   }, main.heading), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 49,
-      columnNumber: 21
+      columnNumber: 23
     }
   }, main.description))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "tile is-ancestor",
@@ -18929,7 +18929,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 52,
-      columnNumber: 17
+      columnNumber: 19
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "tile is-vertical",
@@ -18937,7 +18937,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53,
-      columnNumber: 19
+      columnNumber: 21
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "tile",
@@ -18945,7 +18945,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 54,
-      columnNumber: 21
+      columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "tile is-parent is-vertical",
@@ -18953,7 +18953,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 55,
-      columnNumber: 23
+      columnNumber: 25
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("article", {
     className: "tile is-child",
@@ -18961,7 +18961,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 56,
-      columnNumber: 25
+      columnNumber: 27
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_PreviewCompatibleImage__WEBPACK_IMPORTED_MODULE_6__["default"], {
     imageInfo: main.image1,
@@ -18969,7 +18969,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 57,
-      columnNumber: 27
+      columnNumber: 29
     }
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "tile is-parent",
@@ -18977,7 +18977,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 60,
-      columnNumber: 23
+      columnNumber: 25
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("article", {
     className: "tile is-child",
@@ -18985,7 +18985,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 61,
-      columnNumber: 25
+      columnNumber: 27
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_PreviewCompatibleImage__WEBPACK_IMPORTED_MODULE_6__["default"], {
     imageInfo: main.image2,
@@ -18993,7 +18993,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 62,
-      columnNumber: 27
+      columnNumber: 29
     }
   })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "tile is-parent",
@@ -19001,7 +19001,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 66,
-      columnNumber: 21
+      columnNumber: 23
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("article", {
     className: "tile is-child",
@@ -19009,7 +19009,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 67,
-      columnNumber: 23
+      columnNumber: 25
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_PreviewCompatibleImage__WEBPACK_IMPORTED_MODULE_6__["default"], {
     imageInfo: main.image3,
@@ -19017,7 +19017,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 68,
-      columnNumber: 25
+      columnNumber: 27
     }
   }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Testimonials__WEBPACK_IMPORTED_MODULE_4__["default"], {
     testimonials: testimonials,
@@ -19025,7 +19025,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73,
-      columnNumber: 17
+      columnNumber: 19
     }
   })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_FullWidthImage__WEBPACK_IMPORTED_MODULE_7__["default"], {
     img: fullWidthImage,
@@ -19034,7 +19034,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 79,
-      columnNumber: 7
+      columnNumber: 9
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
     className: "section section--gradient",
@@ -19042,7 +19042,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 80,
-      columnNumber: 7
+      columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "container",
@@ -19050,7 +19050,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 81,
-      columnNumber: 9
+      columnNumber: 11
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "section",
@@ -19058,7 +19058,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 82,
-      columnNumber: 11
+      columnNumber: 13
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "columns",
@@ -19066,7 +19066,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 83,
-      columnNumber: 13
+      columnNumber: 15
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "column is-10 is-offset-1",
@@ -19074,7 +19074,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 84,
-      columnNumber: 15
+      columnNumber: 17
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
     className: "has-text-weight-semibold is-size-2",
@@ -19082,7 +19082,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 85,
-      columnNumber: 17
+      columnNumber: 19
     }
   }, pricing.heading), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "is-size-5",
@@ -19090,7 +19090,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 88,
-      columnNumber: 17
+      columnNumber: 19
     }
   }, pricing.description), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Pricing__WEBPACK_IMPORTED_MODULE_5__["default"], {
     data: pricing.plans,
@@ -19098,7 +19098,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 89,
-      columnNumber: 17
+      columnNumber: 19
     }
   })))))));
 };
@@ -19135,7 +19135,7 @@ var ProductPage = function ProductPage(_ref2) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 127,
-      columnNumber: 5
+      columnNumber: 7
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(ProductPageTemplate, {
     image: frontmatter.image,
@@ -19151,7 +19151,7 @@ var ProductPage = function ProductPage(_ref2) {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 128,
-      columnNumber: 7
+      columnNumber: 9
     }
   }));
 };
@@ -50704,7 +50704,7 @@ __webpack_require__.r(__webpack_exports__);
 // extracted by mini-css-extract-plugin
 
     if(true) {
-      // 1636966446946
+      // 1636969328077
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.id, {"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -77373,7 +77373,7 @@ module.exports = [];
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "245be311667ae2183b76"; }
+/******/ 		__webpack_require__.h = function() { return "738008302bef73f18b98"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */

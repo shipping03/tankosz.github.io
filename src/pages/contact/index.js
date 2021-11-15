@@ -40,6 +40,12 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>联系我们</h1>
+              <h4>深圳市腾柯科技有限公司</h4>
+              <p>公司地址：深圳市宝安区福海街道和平社区永和路41号同富裕
+                工业区和平大友工贸大厦B栋502</p>
+              <p>电话：+86-755-85244473</p>
+              <p>如产品、合作、应聘职位等，请填写并提交如下表单，我们将第一时间回复您！</p>
+            <br />
               <form
                 name="contact"
                 method="post"
@@ -58,10 +64,11 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
-                    您的姓名
+                    如何称呼您
                   </label>
                   <div className="control">
                     <input
+                        placeholder="请输入姓名"
                       className="input"
                       type={"text"}
                       name={"name"}
@@ -77,6 +84,7 @@ export default class Index extends React.Component {
                   </label>
                   <div className="control">
                     <input
+                        placeholder="请输入邮箱"
                       className="input"
                       type={"email"}
                       name={"email"}
@@ -92,6 +100,7 @@ export default class Index extends React.Component {
                   </label>
                   <div className="control">
                     <textarea
+                        placeholder="请填写详细信息"
                       className="textarea"
                       name={"message"}
                       onChange={this.handleChange}
@@ -102,7 +111,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    发送给我们
+                    提交
                   </button>
                 </div>
               </form>
