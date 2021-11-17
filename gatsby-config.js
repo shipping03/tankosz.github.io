@@ -5,6 +5,7 @@ module.exports = {
       "深圳市腾柯科技有限公司主营蓝牙音箱、耳机、移动电源、墙充、无线充等电脑周边类产品",
   },
   plugins: [
+    "react-bmapgl",
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sass",

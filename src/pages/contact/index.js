@@ -1,6 +1,8 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
+import Map from "../../components/Map";
+
 
 function encode(data) {
   return Object.keys(data)
@@ -40,12 +42,10 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>联系我们</h1>
-              <h4>深圳市腾柯科技有限公司</h4>
-              <p>公司地址：深圳市宝安区福海街道和平社区永和路41号同富裕
-                工业区和平大友工贸大厦B栋502</p>
-              <p>电话：+86-755-85244473</p>
+              <br />
+            <Map />
+              <br />
               <p>如产品、合作、应聘职位等，请填写并提交如下表单，我们将第一时间回复您！</p>
-            <br />
               <form
                 name="contact"
                 method="post"
