@@ -1,7 +1,7 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
-import Map from "../../components/Map";
+// import Map from "../../components/Map";
 
 
 function encode(data) {
@@ -42,8 +42,9 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>联系我们</h1>
+              <img src="/img/map.png"  alt="公司地图" />
               <br />
-            <Map />
+            {/*<Map />*/}
               <br />
               <p>如产品、合作、应聘职位等，请填写并提交如下表单，我们将第一时间回复您！</p>
               <form
