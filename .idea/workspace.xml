@@ -1,7 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="">
+    <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/public/175-e80e2e5e8d5a8ef22b11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/175-e80e2e5e8d5a8ef22b11.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/231-d1bcb81c0e0bab8ae168.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/231-d1bcb81c0e0bab8ae168.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-99d2aed9ab47852cfea7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-99d2aed9ab47852cfea7.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-0f256203b4adee326949.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-0f256203b4adee326949.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-517aadde16e7dc7b6873.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-517aadde16e7dc7b6873.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-blog-index-js-51d087952fd6b2a6ab46.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-blog-index-js-51d087952fd6b2a6ab46.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-1de1dd769ef02f425722.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-1de1dd769ef02f425722.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-242adf1a480f581d442e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-242adf1a480f581d442e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-94ee6a8c7ad3d78ebf7b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-94ee6a8c7ad3d78ebf7b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-index-page-js-6ba822aa5d8de90af75e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-index-page-js-6ba822aa5d8de90af75e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-product-page-js-1e5615b8b1261ab81bd2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-product-page-js-1e5615b8b1261ab81bd2.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-tags-js-58e8b107cfd38c9344bd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-templates-tags-js-58e8b107cfd38c9344bd.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/contact/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/contact/file-upload/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/contact/thanks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/blog-index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/chemex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/coffee-gear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/coffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/flavor_wheel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/home-jumbotron.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/jumbotron.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/meeting-space.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/og-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/products-full-width.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/products-grid1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/products-grid2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/products-grid3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/tutorials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/404/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/about/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/app-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/blog/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/contact/examples/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/contact/file-upload/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/contact/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/contact/thanks/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/products/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/sq/d/1324706516.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/sq/d/4080856488.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/brewing/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/chemex/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/flavor/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/green-beans/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/jamaica/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page-data/tags/tasting/page-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/polyfill-ccb39f2b1e16fed6f447.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/polyfill-ccb39f2b1e16fed6f447.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/products/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles.74f2bdf00bda086baad9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/brewing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/chemex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/flavor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/green-beans/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/jamaica/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/tasting/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-b5a08d72d95b225b7a7e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-b5a08d72d95b225b7a7e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,7 +306,7 @@
       <workItem from="1636942987098" duration="15161000" />
       <workItem from="1637025261662" duration="17505000" />
       <workItem from="1637110846473" duration="17117000" />
-      <workItem from="1637232060490" duration="505000" />
+      <workItem from="1637232060490" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1636714688267</created>
@@ -265,12 +375,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67326000" />
+    <option name="totallyTimeSpent" value="68198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,7 +397,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49573562" visible="true" weight="0.3449024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49573562" visible="true" weight="0.3449024" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5042644" side_tool="true" visible="true" weight="0.3449024" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
