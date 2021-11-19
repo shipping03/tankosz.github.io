@@ -2,6 +2,7 @@ import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
 import Map from "../../img/map.png"
+import logo from "../../img/map.png";
 // import Map from "../../components/Map";
 
 
@@ -43,7 +44,11 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>联系我们</h1>
-              <img src={Map}  alt="公司地图" />
+              <img
+                  src={logo}
+                  alt="Tanko"
+                  style={{ width: "1348px", height: "457px" }}
+              />
               <br />
             {/*<Map />*/}
               <br />
