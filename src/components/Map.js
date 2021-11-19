@@ -9,11 +9,11 @@ class Example extends React.Component {
             <Map
                 style={{ height: 450 }}
                 //注意：在REACT脚手架中全局对象需要window来访问,生产环境不
-                center={new  window.BMapGL.Point(113.798024, 22.692425)}
+                center={new  BMapGL.Point(113.798024, 22.692425)}
                 zoom={18}
             >
                 <InfoWindow
-                    position={new  window.BMapGL.Point(113.798024, 22.692425)}
+                    position={new  BMapGL.Point(113.798024, 22.692425)}
                     title="深圳市腾柯科技有限公司"
                     height={150}
                     width={360}
