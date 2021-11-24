@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9239dfd-9650-43bf-8525-92bcecf5b086" name="frappe" url="http://172.16.0.6:9527">
+        <fileTransfer host="172.16.0.6" port="9522" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="9522" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
