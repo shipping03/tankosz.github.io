@@ -1,83 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/public/466-bc131c696a0a96df78b0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/466-bc131c696a0a96df78b0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/6196ad2f-59951c0a14a2fe0131e9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/6196ad2f-59951c0a14a2fe0131e9.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-22b85a530584c02f31c0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-22b85a530584c02f31c0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76fb2c395891179f0309.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76fb2c395891179f0309.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76fb2c395891179f0309.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-05a9380155a369fdd80e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-05a9380155a369fdd80e.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-templates-about-page-js-fdb6f3651859444f96ac.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-templates-about-page-js-fdb6f3651859444f96ac.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-394c76140a42ac86929c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-394c76140a42ac86929c.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-templates-product-page-js-2ba47bac3c7a2e9a000b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-templates-product-page-js-2ba47bac3c7a2e9a000b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/df0698a5-906827863f5b28e98fe8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/df0698a5-906827863f5b28e98fe8.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-b21580d4abe8b87e8f73.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-b21580d4abe8b87e8f73.js.map" afterDir="false" />
+    <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/_headers" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-99d2aed9ab47852cfea7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-99d2aed9ab47852cfea7.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-0f256203b4adee326949.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-0f256203b4adee326949.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-ec16e2e0712abd35909e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-ec16e2e0712abd35909e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-1e5615b8b1261ab81bd2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-1e5615b8b1261ab81bd2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/examples/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/contact/file-upload/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact/file-upload/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/contact/thanks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact/thanks/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/app-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/app-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/sq/d/1324706516.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/sq/d/1324706516.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/sq/d/4080856488.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/products/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/map-bd4b31522ba30e8b1f7d4d0fbecc6ea4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/brewing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/chemex/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/flavor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/green-beans/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/jamaica/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tasting/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-36782239e9d9d584aa99.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-36782239e9d9d584aa99.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-74b2cb3d2aa7d7aeadc8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-74b2cb3d2aa7d7aeadc8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-b5a08d72d95b225b7a7e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-b5a08d72d95b225b7a7e.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/favicon-32x32.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,12 +22,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/templates/index-page.js">
+        <entry file="file://$PROJECT_DIR$/src/pages/contact/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="76">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,9 +63,9 @@
         <option value="$PROJECT_DIR$/src/components/SiteMetadata.js" />
         <option value="$PROJECT_DIR$/gatsby-config.js" />
         <option value="$PROJECT_DIR$/src/components/Layout.js" />
-        <option value="$PROJECT_DIR$/src/pages/contact/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Map.js" />
         <option value="$PROJECT_DIR$/src/templates/index-page.js" />
+        <option value="$PROJECT_DIR$/src/components/Map.js" />
+        <option value="$PROJECT_DIR$/src/pages/contact/index.js" />
       </list>
     </option>
   </component>
@@ -165,7 +99,14 @@
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
@@ -188,7 +129,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637807109242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637810323513" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -237,7 +178,7 @@
       <workItem from="1637725350039" duration="539000" />
       <workItem from="1637725910679" duration="598000" />
       <workItem from="1637726527169" duration="4588000" />
-      <workItem from="1637802749275" duration="3946000" />
+      <workItem from="1637802749275" duration="6450000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1636714688267</created>
@@ -344,16 +285,24 @@
       <option name="project" value="LOCAL" />
       <updated>1637735021895</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1637807184811</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637807184811</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92528000" />
+    <option name="totallyTimeSpent" value="95032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,7 +320,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49093816" visible="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49093816" visible="true" weight="0.3449024" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5090618" side_tool="true" visible="true" weight="0.3449024" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -717,20 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/contact/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Map.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -739,10 +678,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/index-page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="513">
           <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/contact/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
