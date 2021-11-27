@@ -22,7 +22,8 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
-      <FullWidthImage img={heroImage} title={title} subheading={subheading} />
+      {/*<FullWidthImage img={heroImage} title={title} subheading={subheading} />*/}
+      <FullWidthImage img={heroImage}  />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -59,7 +60,7 @@ export const IndexPageTemplate = ({
                     </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/blog">
+                      <Link className="btn" to="/news">
                         Read more
                       </Link>
                     </div>

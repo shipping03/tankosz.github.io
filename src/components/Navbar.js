@@ -63,14 +63,26 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
+              <Link className="navbar-item" to="/">
+                首页
+              </Link>
               <Link className="navbar-item" to="/about">
-                关于腾柯
+                关于我们
               </Link>
               <Link className="navbar-item" to="/products">
-                腾柯产品
+                产品中心
               </Link>
-              <Link className="navbar-item" to="/blog">
-                公司动态
+              <Link className="navbar-item" to="/rd">
+                研发中心
+              </Link>
+              <Link className="navbar-item" to="/service">
+                服务流程
+              </Link>
+              <Link className="navbar-item" to="/join">
+                招贤纳士
+              </Link>
+              <Link className="navbar-item" to="/news">
+                新闻资讯
               </Link>
               <Link className="navbar-item" to="/contact">
                 联系我们

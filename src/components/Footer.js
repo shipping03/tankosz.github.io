@@ -58,8 +58,8 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="https://shop0729e047g0221.1688.com">
-                        网上商城
+                      <Link className="navbar-item" to="http://tanko.tpddns.cn:9527/">
+                        产品中心
                       </Link>
                     </li>
                   </ul>
