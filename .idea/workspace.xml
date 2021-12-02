@@ -2,74 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/templates/join-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/rd-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/service-page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/175-e80e2e5e8d5a8ef22b11.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/175-e80e2e5e8d5a8ef22b11.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/231-d1bcb81c0e0bab8ae168.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/231-d1bcb81c0e0bab8ae168.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/466-bc131c696a0a96df78b0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/466-bc131c696a0a96df78b0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js.LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/6196ad2f-59951c0a14a2fe0131e9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/6196ad2f-59951c0a14a2fe0131e9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/_headers" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-22b85a530584c02f31c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-22b85a530584c02f31c0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-dd1598a5aea44fa4a6c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-dd1598a5aea44fa4a6c8.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-27f94c44b7e187980937.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-27f94c44b7e187980937.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons-32e6580ab990fb5d9f30.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons-32e6580ab990fb5d9f30.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-517aadde16e7dc7b6873.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-517aadde16e7dc7b6873.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-blog-index-js-51d087952fd6b2a6ab46.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-blog-index-js-51d087952fd6b2a6ab46.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-1de1dd769ef02f425722.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-1de1dd769ef02f425722.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-242adf1a480f581d442e.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-242adf1a480f581d442e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76fb2c395891179f0309.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76fb2c395891179f0309.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-76fb2c395891179f0309.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-819a709e630ae8441215.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-819a709e630ae8441215.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-819a709e630ae8441215.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-94ee6a8c7ad3d78ebf7b.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-94ee6a8c7ad3d78ebf7b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-05a9380155a369fdd80e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-05a9380155a369fdd80e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-fdb6f3651859444f96ac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-fdb6f3651859444f96ac.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-394c76140a42ac86929c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-394c76140a42ac86929c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-index-page-js-6ba822aa5d8de90af75e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-index-page-js-6ba822aa5d8de90af75e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-2ba47bac3c7a2e9a000b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-2ba47bac3c7a2e9a000b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-news-index-js-51c5a1675c5d82353090.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-news-index-js-51c5a1675c5d82353090.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-index-page-js-19ddccdb41cd1c0bfd73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-index-page-js-19ddccdb41cd1c0bfd73.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-join-page-js-b84eaedcc31a0de64cb8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-join-page-js-b84eaedcc31a0de64cb8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-ed06e4954cc67d775ce3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-ed06e4954cc67d775ce3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-rd-page-js-380cb4fd2197e689db43.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-rd-page-js-380cb4fd2197e689db43.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-service-page-js-54f3f893ec08616f5c83.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-templates-service-page-js-54f3f893ec08616f5c83.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-58e8b107cfd38c9344bd.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-58e8b107cfd38c9344bd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact/examples/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/contact/file-upload/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/contact/thanks/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/df0698a5-906827863f5b28e98fe8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/df0698a5-906827863f5b28e98fe8.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js.LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/join/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/about/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/about/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/app-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/blog/page-data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/contact/examples/page-data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/contact/file-upload/page-data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/contact/thanks/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/products/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/products/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/sq/d/1324706516.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/sq/d/1324706516.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/service/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/service/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/tags/brewing/page-data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/tags/chemex/page-data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/tags/flavor/page-data.json" beforeDir="false" />
@@ -79,6 +81,9 @@
       <change beforePath="$PROJECT_DIR$/public/page-data/tags/tasting/page-data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/polyfill-ccb39f2b1e16fed6f447.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/polyfill-ccb39f2b1e16fed6f447.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/products/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/rd/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/service/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/1199c/flavor_wheel.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/440ea/flavor_wheel.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/a5457/flavor_wheel.jpg" beforeDir="false" />
@@ -155,21 +160,23 @@
       <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/680b5/coffee-gear.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/c0c30/coffee-gear.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/ea9c8/coffee-gear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/map-bd4b31522ba30e8b1f7d4d0fbecc6ea4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/styles.74f2bdf00bda086baad9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/brewing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/chemex/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/flavor/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/green-beans/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-37bd811eb712bee6322b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-37bd811eb712bee6322b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-b21580d4abe8b87e8f73.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-b21580d4abe8b87e8f73.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/jamaica/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/tasting/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-25d96417888ef9fa224a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-25d96417888ef9fa224a.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/products/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/service/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/service/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/templates/index-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/index-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/service-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/service-page.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -179,33 +186,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/product-page.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="41" selection-end-line="226" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/join/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="23" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/rd/index.md">
+        <entry file="file://$PROJECT_DIR$/src/pages/about/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -218,6 +204,7 @@
     <findStrings>
       <find>webpack.config</find>
       <find>Product</find>
+      <find>font</find>
     </findStrings>
     <replaceStrings>
       <replace>Rd</replace>
@@ -246,24 +233,25 @@
         <option value="$PROJECT_DIR$/src/components/Layout.js" />
         <option value="$PROJECT_DIR$/src/components/Map.js" />
         <option value="$PROJECT_DIR$/src/pages/contact/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/index.md" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/src/pages/products/index.md" />
         <option value="$PROJECT_DIR$/src/templates/rd-page.js" />
         <option value="$PROJECT_DIR$/src/pages/rd/index.md" />
         <option value="$PROJECT_DIR$/src/components/Navbar.js" />
-        <option value="$PROJECT_DIR$/src/templates/index-page.js" />
-        <option value="$PROJECT_DIR$/src/pages/service/index.md" />
-        <option value="$PROJECT_DIR$/src/templates/service-page.js" />
         <option value="$PROJECT_DIR$/src/pages/join/index.md" />
         <option value="$PROJECT_DIR$/src/templates/join-page.js" />
+        <option value="$PROJECT_DIR$/src/templates/index-page.js" />
+        <option value="$PROJECT_DIR$/src/templates/service-page.js" />
+        <option value="$PROJECT_DIR$/src/pages/service/index.md" />
+        <option value="$PROJECT_DIR$/src/pages/index.md" />
+        <option value="$PROJECT_DIR$/src/pages/about/index.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="854" />
-    <option name="y" value="236" />
-    <option name="width" value="1485" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="959" />
+    <option name="y" value="12" />
+    <option name="width" value="1229" />
     <option name="height" value="1067" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -274,8 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,34 +285,7 @@
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="join" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="rd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
@@ -337,6 +296,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +308,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637983859411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637984059368" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -398,7 +359,9 @@
       <workItem from="1637726527169" duration="4588000" />
       <workItem from="1637802749275" duration="7259000" />
       <workItem from="1637890257063" duration="4224000" />
-      <workItem from="1637978995965" duration="3550000" />
+      <workItem from="1637978995965" duration="3799000" />
+      <workItem from="1638329247073" duration="15824000" />
+      <workItem from="1638425462643" duration="3624000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1636714688267</created>
@@ -516,13 +479,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103615000" />
+    <option name="totallyTimeSpent" value="123312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="750" y="110" width="1485" height="1067" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2568421" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,8 +503,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48982456" visible="true" weight="0.34083602" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51017547" side_tool="true" visible="true" weight="0.34083602" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48880598" visible="true" weight="0.34056398" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51119405" side_tool="true" visible="true" weight="0.34056398" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -577,84 +540,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/all.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="129" column="12" selection-start-line="129" selection-start-column="12" selection-end-line="129" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gatsby-plugin-purgecss/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gatsby-plugin-purgecss/gatsby-node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-953" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gatsby-plugin-purgecss/paths.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/404.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/home-jumbotron.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/contact/thanks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-node.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/blog-post.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-bmapgl/Map/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -672,15 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/about-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/map/index.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/lodash-webpack-plugin/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -694,25 +570,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/contact/index.html" />
     <entry file="file://$PROJECT_DIR$/public/products/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/components/BlogRoll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Features.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -765,13 +622,6 @@
     <entry file="file://$PROJECT_DIR$/static/img/favicon-32x32.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1132">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SiteMetadata.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -789,16 +639,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/blog/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/blog/index.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Map.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -819,15 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/FullWidthImage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -835,14 +667,6 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/news/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -856,55 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/service-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2907">
-          <caret line="153" column="15" selection-end-line="226" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/service/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/index-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="19">
-            <caret line="5" column="49" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/news/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/products/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -912,13 +687,6 @@
             <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/product-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" selection-end-line="226" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -939,6 +707,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/rd/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/join/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -949,11 +727,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/rd/index.md">
+    <entry file="file://$PROJECT_DIR$/src/templates/product-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" selection-end-line="226" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/FullWidthImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/about-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BlogRoll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/styles.74f2bdf00bda086baad9.css" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/service/index.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/_all.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/bulma.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/animations.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/mixins.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/layout/hero.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2109" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/initial-variables.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/service-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/service/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/all.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/index-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/news/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/news/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="323">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>

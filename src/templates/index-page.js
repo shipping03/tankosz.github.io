@@ -50,18 +50,18 @@ export const IndexPageTemplate = ({
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
-                        See all products
+                        产品中心
                       </Link>
                     </div>
                   </div>
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
+                      最新资讯
                     </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/news">
-                        Read more
+                        更多资讯
                       </Link>
                     </div>
                   </div>
