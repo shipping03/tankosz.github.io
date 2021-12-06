@@ -3,180 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/175-e80e2e5e8d5a8ef22b11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/175-e80e2e5e8d5a8ef22b11.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/231-d1bcb81c0e0bab8ae168.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/231-d1bcb81c0e0bab8ae168.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/503-0849226a48778bd687a4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/532a2f07-f97befafd74bf8dd0311.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-dd1598a5aea44fa4a6c8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app-dd1598a5aea44fa4a6c8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-32e6580ab990fb5d9f30.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons-32e6580ab990fb5d9f30.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-517aadde16e7dc7b6873.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-517aadde16e7dc7b6873.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-1de1dd769ef02f425722.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-examples-js-1de1dd769ef02f425722.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-242adf1a480f581d442e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-file-upload-js-242adf1a480f581d442e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-index-js-527402373e8a7f614a40.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-94ee6a8c7ad3d78ebf7b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-thanks-js-94ee6a8c7ad3d78ebf7b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-news-index-js-51c5a1675c5d82353090.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-news-index-js-51c5a1675c5d82353090.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-pages-tags-index-js-2392ea58923a0dceaf7a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-about-page-js-7a94e3de0363d984a5f9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-blog-post-js-78130b9b252a44d6f60a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-index-page-js-19ddccdb41cd1c0bfd73.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-index-page-js-19ddccdb41cd1c0bfd73.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-join-page-js-b84eaedcc31a0de64cb8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-join-page-js-b84eaedcc31a0de64cb8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-ed06e4954cc67d775ce3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-product-page-js-ed06e4954cc67d775ce3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-rd-page-js-380cb4fd2197e689db43.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-rd-page-js-380cb4fd2197e689db43.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-service-page-js-54f3f893ec08616f5c83.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-service-page-js-54f3f893ec08616f5c83.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-58e8b107cfd38c9344bd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/component---src-templates-tags-js-58e8b107cfd38c9344bd.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/examples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/file-upload/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact/thanks/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/framework-115d23189b19f04922be.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/join/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/2017-01-04-a-beginners-guide-to-brewing-with-chemex/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/about/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/about/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/app-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/contact/examples/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/contact/file-upload/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/contact/thanks/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/service/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/service/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/brewing/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/chemex/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/flavor/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/green-beans/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/jamaica/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/tags/tasting/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/polyfill-ccb39f2b1e16fed6f447.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/polyfill-ccb39f2b1e16fed6f447.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/products/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/rd/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/service/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/1199c/flavor_wheel.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/440ea/flavor_wheel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/a5457/flavor_wheel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/a6986/flavor_wheel.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/bbe6f/flavor_wheel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/c4e3d/flavor_wheel.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/19a6d5ab24bbc3b3531f11ecab349683/e92a3/flavor_wheel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/58568/coffee.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/5fa8e/coffee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/680b5/coffee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/c0c30/coffee.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/ea9c8/coffee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/58a32/products-grid1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/777cf/products-grid1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/9e449/products-grid1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/b3048/products-grid1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/b6695/products-grid1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/eb1b6/products-grid1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/efb42/products-grid1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/479cb/home-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/8c915/home-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/92368/home-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/c1bc7/home-jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/c34ed/home-jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/c5e11/home-jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/534958a2cee3bb524a0bae118f2a4219/de8d1/home-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/58568/tutorials.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/5fa8e/tutorials.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/680b5/tutorials.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/c0c30/tutorials.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/ea9c8/tutorials.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/0f2e7/products-full-width.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/388d4/products-full-width.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/38eea/products-full-width.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/47dac/products-full-width.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/541c2/products-full-width.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/7d488/products-full-width.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/9d83e/products-full-width.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/26526/products-grid3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/57676/products-grid3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/6f9d3/products-grid3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/7e5f3/products-grid3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/81405/products-grid3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/a92bc/products-grid3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/e39ae/products-grid3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/19256/products-grid2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/26526/products-grid2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/51036/products-grid2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/6f9d3/products-grid2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/7e5f3/products-grid2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/8fc5b/products-grid2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/e39ae/products-grid2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/1199c/chemex.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/440ea/chemex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/a5457/chemex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/a6986/chemex.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/bbe6f/chemex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/c4e3d/chemex.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ad53658d229612b8d23d0307be253419/e92a3/chemex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/479cb/jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/8c915/jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/92368/jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/c1bc7/jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/c34ed/jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/c5e11/jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/de8d1/jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/58568/meeting-space.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/5fa8e/meeting-space.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/680b5/meeting-space.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/c0c30/meeting-space.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/ea9c8/meeting-space.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/58568/coffee-gear.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/5fa8e/coffee-gear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/680b5/coffee-gear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/c0c30/coffee-gear.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/ea9c8/coffee-gear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/map-bd4b31522ba30e8b1f7d4d0fbecc6ea4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles.74f2bdf00bda086baad9.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/brewing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/chemex/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/flavor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/green-beans/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/jamaica/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tasting/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-25d96417888ef9fa224a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-25d96417888ef9fa224a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/news/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/news/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/service/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/16d3be9f37fc6309e42df0feee7904f2/1c8a8/service_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/b58fe/coffee.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/3bc8254e79770d67e1dc102a143a2b1c/1c8a8/service_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/2d8ed/products-grid1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/559f69a3a2d2a3dc4a392be307728a7c/1c8a8/service_4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/56a919dd8f77972a4e25ed9d48a19225/1c8a8/service_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/77e46d12fe0b89459b18296573e60bca/ef7d6/service-jumbotron.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/b58fe/tutorials.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/8fd3d/products-full-width.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/85502492a9b7c755c07dda75aac1f8ab/1c8a8/service_5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/4cd90/products-grid3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/8241e/products-grid2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/be8602e91a31c2f52783a055c9e4ff60/1c8a8/service_8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/d85eb/jumbotron.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/b58fe/meeting-space.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/df23522cfd4b89c1de107c32bfa2b753/1c8a8/service_6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/e429816945b550f952278b2decbcfdea/1c8a8/service_7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/b58fe/coffee-gear.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/service/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/service/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/index-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/index-page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/service-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/service-page.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,11 +39,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/about/index.md">
+        <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="171">
+                <caret line="9" column="274" selection-start-line="9" selection-start-column="274" selection-end-line="9" selection-end-column="274" />
               </first_editor>
               <second_editor />
             </state>
@@ -233,26 +97,26 @@
         <option value="$PROJECT_DIR$/src/components/Layout.js" />
         <option value="$PROJECT_DIR$/src/components/Map.js" />
         <option value="$PROJECT_DIR$/src/pages/contact/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/src/pages/products/index.md" />
         <option value="$PROJECT_DIR$/src/templates/rd-page.js" />
         <option value="$PROJECT_DIR$/src/pages/rd/index.md" />
-        <option value="$PROJECT_DIR$/src/components/Navbar.js" />
         <option value="$PROJECT_DIR$/src/pages/join/index.md" />
         <option value="$PROJECT_DIR$/src/templates/join-page.js" />
         <option value="$PROJECT_DIR$/src/templates/index-page.js" />
         <option value="$PROJECT_DIR$/src/templates/service-page.js" />
         <option value="$PROJECT_DIR$/src/pages/service/index.md" />
-        <option value="$PROJECT_DIR$/src/pages/index.md" />
         <option value="$PROJECT_DIR$/src/pages/about/index.md" />
+        <option value="$PROJECT_DIR$/src/pages/index.md" />
+        <option value="$PROJECT_DIR$/src/components/Footer.js" />
+        <option value="$PROJECT_DIR$/src/components/Features.js" />
+        <option value="$PROJECT_DIR$/src/components/Navbar.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="959" />
-    <option name="y" value="12" />
-    <option name="width" value="1229" />
-    <option name="height" value="1067" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="781" />
+    <option name="width" value="1155" />
+    <option name="height" value="1078" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -262,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,6 +143,12 @@
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -285,18 +156,18 @@
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -361,7 +232,9 @@
       <workItem from="1637890257063" duration="4224000" />
       <workItem from="1637978995965" duration="3799000" />
       <workItem from="1638329247073" duration="15824000" />
-      <workItem from="1638425462643" duration="3624000" />
+      <workItem from="1638425462643" duration="5696000" />
+      <workItem from="1638502421365" duration="3853000" />
+      <workItem from="1638756612942" duration="1779000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1636714688267</created>
@@ -479,13 +352,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123312000" />
+    <option name="totallyTimeSpent" value="131016000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="781" y="0" width="1155" height="1078" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3242009" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,8 +376,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48880598" visible="true" weight="0.34056398" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51119405" side_tool="true" visible="true" weight="0.34056398" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.486758" visible="true" weight="0.33262712" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.513242" side_tool="true" visible="true" weight="0.33262712" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -540,45 +413,8 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/react-bmapgl/Map/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="171" column="3" lean-forward="true" selection-start-line="171" selection-start-column="3" selection-end-line="171" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-bmapgl/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-bmapgl/Overlay/InfoWindow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/map/index.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/lodash-webpack-plugin/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="205">
-            <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/contact/index.html" />
     <entry file="file://$PROJECT_DIR$/public/products/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/components/Features.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Testimonials.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -591,15 +427,6 @@
     <entry file="file://$PROJECT_DIR$/src/components/Pricing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PreviewCompatibleImage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -660,26 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="60" column="84" selection-start-line="60" selection-start-column="84" selection-end-line="60" selection-end-column="84" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/products/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -724,13 +531,6 @@
             <caret line="1" column="23" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="23" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/product-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" selection-end-line="226" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -780,9 +580,6 @@
     <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/_all.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bulma/bulma.sass">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/animations.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -794,16 +591,6 @@
     <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/layout/hero.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2109" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/initial-variables.sass">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1064">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/service-page.js">
@@ -860,16 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="323">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -877,6 +654,95 @@
             <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PreviewCompatibleImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Features.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/product-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/functions.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2143" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/bulma.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/base/_all.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/base/helpers.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/derived-variables.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/utilities/initial-variables.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/helpers/color.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="274" selection-start-line="9" selection-start-column="274" selection-end-line="9" selection-end-column="274" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
