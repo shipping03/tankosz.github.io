@@ -3,32 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09bae7e8-f156-4af8-a959-bf5588a1ff45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/news/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/news/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/service/page-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/16d3be9f37fc6309e42df0feee7904f2/1c8a8/service_1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/277733984de58dd6d27eed18b510250d/b58fe/coffee.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/3bc8254e79770d67e1dc102a143a2b1c/1c8a8/service_3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/4d06c3734be9ff5220b79ddf8e62eed9/2d8ed/products-grid1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/559f69a3a2d2a3dc4a392be307728a7c/1c8a8/service_4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/56a919dd8f77972a4e25ed9d48a19225/1c8a8/service_2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/77e46d12fe0b89459b18296573e60bca/ef7d6/service-jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/7de80b5f57f779d116b3a186b9a9268e/b58fe/tutorials.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85357520b02403983a231bb940d46f8c/8fd3d/products-full-width.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/85502492a9b7c755c07dda75aac1f8ab/1c8a8/service_5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/95424a081ffe82635d22b755ce7ec986/4cd90/products-grid3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/9827e8b51453c398abd7cc9d8f12217f/8241e/products-grid2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/be8602e91a31c2f52783a055c9e4ff60/1c8a8/service_8.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/c909be3f6ff771026adf0438c181f4d5/d85eb/jumbotron.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/d2f97849ad334b9280651604a80a01a6/b58fe/meeting-space.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/df23522cfd4b89c1de107c32bfa2b753/1c8a8/service_6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/e429816945b550f952278b2decbcfdea/1c8a8/service_7.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/ec437153a2bd67b99cd975bf10c03292/b58fe/coffee-gear.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/index.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="171">
-                <caret line="9" column="274" selection-start-line="9" selection-start-column="274" selection-end-line="9" selection-end-column="274" />
-              </first_editor>
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-2079" />
               <second_editor />
             </state>
           </provider>
@@ -69,6 +29,12 @@
       <find>webpack.config</find>
       <find>Product</find>
       <find>font</find>
+      <find>Login tO</find>
+      <find>活动</find>
+      <find>活动链接</find>
+      <find>链接</find>
+      <find>Event L</find>
+      <find>Event Li</find>
     </findStrings>
     <replaceStrings>
       <replace>Rd</replace>
@@ -108,13 +74,21 @@
         <option value="$PROJECT_DIR$/src/pages/about/index.md" />
         <option value="$PROJECT_DIR$/src/pages/index.md" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
-        <option value="$PROJECT_DIR$/src/components/Features.js" />
         <option value="$PROJECT_DIR$/src/components/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/components/Features.js" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/ebclocal/ebclocal/translations/zh.csv" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/frappe/frappe/templates/includes/footer/footer_info.html" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/frappe/frappe/templates/includes/footer/footer.html" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/frappe/frappe/www/login.html" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/erpnext_chinese/erpnext_chinese/translations/zh.csv" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/frappe/frappe/templates/emails/email_footer.html" />
+        <option value="&lt;f9239dfd-9650-43bf-8525-92bcecf5b086&gt;/home/frappe/bench/apps/erpnext/erpnext/translations/zh.csv" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="781" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="359" />
+    <option name="y" value="101" />
     <option name="width" value="1155" />
     <option name="height" value="1078" />
   </component>
@@ -126,7 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,20 +117,7 @@
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
@@ -168,7 +129,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +140,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637984059368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646986681806" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -234,7 +195,13 @@
       <workItem from="1638329247073" duration="15824000" />
       <workItem from="1638425462643" duration="5696000" />
       <workItem from="1638502421365" duration="3853000" />
-      <workItem from="1638756612942" duration="1779000" />
+      <workItem from="1638756612942" duration="3975000" />
+      <workItem from="1646617193410" duration="2084000" />
+      <workItem from="1646641378967" duration="2658000" />
+      <workItem from="1646884597245" duration="1661000" />
+      <workItem from="1646986289951" duration="829000" />
+      <workItem from="1648433166641" duration="4764000" />
+      <workItem from="1660275127695" duration="912000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1636714688267</created>
@@ -352,20 +319,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131016000" />
+    <option name="totallyTimeSpent" value="146120000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="781" y="0" width="1155" height="1078" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3242009" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32409382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Remote Host" order="7" weight="0.32995737" />
+      <window_info id="Remote Host" order="7" weight="0.1924307" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
@@ -376,8 +343,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.486758" visible="true" weight="0.33262712" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.513242" side_tool="true" visible="true" weight="0.33262712" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48187634" visible="true" weight="0.34056398" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5181237" side_tool="true" visible="true" weight="0.34056398" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -413,26 +380,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/contact/index.html" />
-    <entry file="file://$PROJECT_DIR$/public/products/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/components/Testimonials.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Pricing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -571,9 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/styles.74f2bdf00bda086baad9.css" />
     <entry file="file://$PROJECT_DIR$/public/index.html" />
     <entry file="file://$PROJECT_DIR$/public/service/index.html" />
@@ -657,26 +601,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="81" column="17" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PreviewCompatibleImage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-191">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Features.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -726,6 +653,29 @@
     <entry file="file://$PROJECT_DIR$/node_modules/bulma/sass/helpers/color.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Features.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renovate.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -736,13 +686,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        <state relative-caret-position="-570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/tags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2079" />
+          <second_editor />
         </state>
       </provider>
     </entry>
